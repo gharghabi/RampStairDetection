@@ -1,0 +1,9 @@
+
+class ramp_stair_detection
+{
+	private:
+		PatternDetector *myDetector;
+	public:
+
+}
+
